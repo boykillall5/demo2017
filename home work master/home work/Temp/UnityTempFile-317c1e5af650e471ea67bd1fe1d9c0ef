@@ -79,6 +79,10 @@
 -define:UNITY_EDITOR_64
 -define:UNITY_EDITOR_OSX
 -define:UNITY_TEAM_LICENSE
+'Assets/CubeMove.cs'
+'Assets/Cylinder.cs'
+'Assets/Script/BellController.cs'
+'Assets/Script/CeilController.cs'
 'Assets/Script/ComStart.cs'
 'Assets/Script/SceneBallController.cs'
 -r:'/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/System.Runtime.Serialization.dll'

@@ -40,3 +40,24 @@
 /Users/apple/Desktop/demo2017-master/demo2017/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/apple/Desktop/demo2017-master/demo2017/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /Users/apple/Desktop/demo2017-master/demo2017/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/apple/demo2017/home work master/home work/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/apple/demo2017/home work master/home work/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/apple/demo2017/home work master/home work/obj/Debug/Assembly-CSharp.dll
+/Users/apple/demo2017/home work master/home work/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/apple/demo2017/home work master/home work/Temp/bin/Debug/UnityEngine.dll
+/Users/apple/demo2017/home work master/home work/Temp/bin/Debug/UnityEditor.dll
+/Users/apple/demo2017/home work master/home work/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/apple/demo2017/home work master/home work/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/apple/demo2017/home work master/home work/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/apple/demo2017/home work master/home work/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/apple/demo2017/home work master/home work/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/apple/demo2017/home work master/home work/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/apple/demo2017/home work master/home work/Temp/bin/Debug/Mono.Cecil.dll
+/Users/apple/demo2017/home work master/home work/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/apple/demo2017/home work master/home work/Temp/bin/Debug/Unity.DataContract.dll
+/Users/apple/demo2017/home work master/home work/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/apple/demo2017/home work master/home work/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/apple/demo2017/home work master/home work/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/apple/demo2017/home work master/home work/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/apple/demo2017/home work master/home work/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/apple/demo2017/home work master/home work/Temp/bin/Debug/Mono.Cecil.Mdb.dll
